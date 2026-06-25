@@ -8,3 +8,7 @@ Step 3 - create a file .env.local on the root of the project and create these va
     NEXT_PUBLIC_BASE_URL=http://localhost:3000
     CORS_ORIGINS=*
     JWT_SECRET=YOUR_JWT_SECRET
+
+Step 4 - npm install
+Step 5 - npm install cross-env
+Step 6 - npm run dev
